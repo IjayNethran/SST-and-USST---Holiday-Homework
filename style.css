@@ -1,0 +1,107 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container1 {
+    position: relative;
+  }
+  
+.text-block {
+    position: absolute;
+    bottom: 0px;
+    right: 20px;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+h1{
+    text-align: center;
+    font-size: 30px;
+}
+
+p{
+    text-align: left;
+}
+
+.rig1{
+
+    color: white;
+    background-color: royalblue;
+}
+
+.info1
+{ 
+    font-size: large;
+    text-align: center;
+    padding-bottom: 10px;
+    margin-left: 350px;
+    margin-right: 350px;
+}
+
+.info2{
+    font-size: large;
+    text-align: center;
+    padding-bottom: 10px;
+    margin-left: 350px;
+    margin-right: 350px;
+}
+
+.rig2
+{
+    color: white;
+    background-color: royalblue;
+}
+
+.info3{
+    font-size: large;
+    text-align: center;
+    padding-bottom: 10px;
+    margin-left: 350px;
+    margin-right: 350px;
+}
+
+.rig3
+{
+    color: white;
+    background-color: royalblue;
+}
+
+.rig4
+{
+    color: white;
+    background-color: royalblue;
+}
+
+.info4{
+    font-size: large;
+    text-align: center;
+    padding-bottom: 10px;
+    margin-left: 350px;
+    margin-right: 350px;
+}
+
+.rig5
+{
+    color: white;
+    background-color: royalblue;
+}
+
+.info5{
+    font-size: large;
+    text-align: center;
+    padding-bottom: 10px;
+    margin-left: 350px;
+    margin-right: 350px;
+}
+
+.navbar
+{
+    color: black;
+    text-align: center;
+    background-color: lightgrey;
+    font-size: xx-large;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
